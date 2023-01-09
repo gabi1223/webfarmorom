@@ -98,5 +98,5 @@
 	.elementor-4 .elementor-element.elementor-element-fb8d721 {text-align: center;}
 	.elementor-4 .elementor-element.elementor-element-a271134 .elementor-divider-separator {width: 18%;margin: 0 auto;margin-center: 0;}
 	.elementor-4 .elementor-element.elementor-element-a271134 .elementor-divider {text-align: center;}}
-@media (min-width:1025px) {.elementor-4 .elementor-element.elementor-element-c50838b:not(.elementor-motion-effects-element-type-background), .elementor-4 .elementor-element.elementor-element-c50838b > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-attachment: fixed;}
-	.elementor-4 .elementor-element.elementor-element-51af88c:not(.elementor-motion-effects-element-type-background), .elementor-4 .elementor-element.elementor-element-51af88c > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-attachment: fixed;}}
+@media (min-width:1025px) {.elementor-4 .elementor-element.elementor-element-c50838b:not(.elementor-motion-effects-element-type-background), .elementor-4 .elementor-element.elementor-element-c50838b > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-attachment: scroll;}
+	.elementor-4 .elementor-element.elementor-element-51af88c:not(.elementor-motion-effects-element-type-background), .elementor-4 .elementor-element.elementor-element-51af88c > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-attachment: scroll;}}
